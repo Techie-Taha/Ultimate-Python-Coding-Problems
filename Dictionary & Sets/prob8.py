@@ -1,0 +1,1 @@
+# If languages of two friends are the same, what will happen to the program in problem 6
