@@ -1,4 +1,4 @@
-
+# write a program to create a dictionary of Bengali words with values as their English translation. Prove user with an option to look it up
 
 words = {
     "Sahajjo": "Help", 
